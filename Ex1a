@@ -1,0 +1,36 @@
+Main.html 
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><META http-equiv="Content-Type" content="text/html; charset=utf-8"><style></style></head><body>
+
+
+<h1> about me <h1>
+<table border="2px">
+<tr>
+
+<th> NaME</th>
+<td> R.VISHAL RAJ</td>
+</tr>
+<tr>
+
+<th> college</th>
+<td> vcet</td>
+</tr>
+<tr>
+
+<th> FATHER'S NAME</th>
+<td> P.RAJKANNAN</td>
+</tr>
+<tr>
+
+<th> MOTHER'S NAME</th>
+<td> V.ANDAL</td>
+</tr>
+<tr>
+
+<th> qualification</th>
+<td> BE -cse</td>
+</tr>
+
+</table>
+<u></u>
+
+</h1></h1></body></html>
